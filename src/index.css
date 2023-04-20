@@ -1,0 +1,9 @@
+@tailwind base;
+
+:root {
+	--fade-delay: 0ms;
+	--slide-delay: 0ms;
+}
+
+@tailwind components;
+@tailwind utilities;
